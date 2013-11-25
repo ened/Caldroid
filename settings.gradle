@@ -1,2 +1,2 @@
-include ':Caldroid'
-include ':CaldroidSample'
+include ':library'
+include ':demo'
